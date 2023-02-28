@@ -1,9 +1,5 @@
-# EXPLORATORY ANALYSIS APP FOR DATA SCIENCE 
+# EXPLORATORY ANALYSIS APP FOR DATA SCIENCE: PDataExplorer v1.0.0
 
-<p align="center">
-  <img alt="Files Logo" src="https://user-images.githubusercontent.com/34092193/221973901-36db79cb-065d-4ae8-bb0b-0940635aa777.png" width="450" />
-  <h2 align="center">PDataExplorer v1.0.0</h2>
-</p>
 
 ## Description
 the main objective of this app is to create a tool that helps to perform a basic exploratory analysis of a dataset in a fast and automatic way.
