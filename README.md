@@ -4,6 +4,16 @@
 ## Description
 the main objective of this app is to create a tool that helps to perform a basic exploratory analysis of a dataset in a fast and automatic way.
 
+## Libs used:
+
+* scikit-learn==1.2.1
+* numpy==1.24.2
+* matplotlib==3.7.0
+* pandas==1.5.3 
+* seaborn==0.12.2
+* PyQt5==5.15.4
+
+
 ## About
 <img src="https://user-images.githubusercontent.com/34092193/221970626-670bd870-f822-453e-9b00-e4b1e91cddea.gif" width="600" height="338"/>
 
