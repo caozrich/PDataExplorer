@@ -28,3 +28,6 @@ the main objective of this app is to create a tool that helps to perform a basic
 
 •correlation matrix of all features.
 
+<img src="https://user-images.githubusercontent.com/34092193/221975874-b8ef2b97-99e1-473e-b430-e75e48470771.gif" width="600" height="338"/>
+
+•allows you to clean the dataset from invalid values and save it in a new .csv file.             
