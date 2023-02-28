@@ -17,3 +17,9 @@ displays a general overview of the data.
 
 allows to visualize the distribution of each feature of the dataset using bar charts.
 
+<img src="https://user-images.githubusercontent.com/34092193/221974084-007ca84b-99e0-496c-a5cb-e57e76055c02.gif" width="600" height="338"/>
+
+compares the target with the other variables to better understand the relationship between them.
+
+
+
