@@ -13,7 +13,7 @@ the main objective of this app is to create a tool that helps to perform a basic
 
 displays a general overview of the data.
 
-<img src="https://user-images.githubusercontent.com/34092193/221971988-026e22b2-6efd-4c78-8a96-98466574e3ac.gif" width="600" height="338"/>
+<img src="https://user-images.githubusercontent.com/34092193/221972355-eeffb6d4-0b60-4ae0-857c-21da69f67577.gif" width="600" height="338"/>
 
 allows to visualize the distribution of each feature of the dataset using bar charts.
 
