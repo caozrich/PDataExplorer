@@ -10,7 +10,8 @@ def is_cat(column): #check if the colum is categorical or not
     
 
 
-def resource_path(relative_path):
+def resource_path(relative_path): #use this function to make an .exe
+   
     """ Get absolute path to resource, works for dev and for PyInstaller """
     try:
         # PyInstaller creates a temp folder and stores path in _MEIPASS
