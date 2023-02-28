@@ -1,7 +1,7 @@
 #PData_explorer by Richard Libreros 
 #v1.0.0
 
-# ///////////////////////////////////////////////////////////////
+# ///
 from PySide6.QtCore import *  # type: ignore
 import sys
 import os
